@@ -1,5 +1,5 @@
 body {
-  background: #442F38;
+  background-color: #3D0814;
 }
 
 .login-bg {
@@ -9,4 +9,9 @@ body {
 .btn-color {
   color: #ffff;
   background-color: #3D0814;
+}
+
+.bg{
+  background-image: url('/assets/img/paz.jpg');
+  background-position: center center;
 }

@@ -1,15 +1,11 @@
 body {
     background-color: #3D0814;
+    font-size: 30px;
 }
 
 h2 {
     font-size: 50px;
     color: #442F38;
-}
-
-.container {
-    background: #3D0814;
-    font-size: 30px;
 }
 
 .login-bg {
@@ -27,18 +23,6 @@ h2 {
     border-radius: 4px;
 }
 .btn-red {
-	background-color: #3D0814;
+	background-color: #dd5138;
 	color: #fff;
-}
-
-.container{
-    background-color: red !important;
-}
-
-.w-75{
-    background-color: #3D0814 !important;
-}
-
-.login-bg{
-    /* background-color: rebeccapurple !important; */
 }

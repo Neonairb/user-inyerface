@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { SessionComponent } from './session/session.component';
 import { PpInterestsComponent } from './pp-interests/pp-interests.component';
 import { HomeComponent } from './home/home.component';
+import { VictoryComponent } from './victory/victory.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { HomeComponent } from './home/home.component';
     SessionComponent,
     PpInterestsComponent,
     HomeComponent,
+    VictoryComponent,
   ],
   imports: [
     BrowserModule,
