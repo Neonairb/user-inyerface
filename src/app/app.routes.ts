@@ -1,5 +1,5 @@
 import { RouterModule, Routes } from '@angular/router'
-import { InicioComponent } from './inicio/inicio.component';
+import { InicioComponent } from './home/home.component';
 import { SessionComponent } from './session/session.component';
 
 
