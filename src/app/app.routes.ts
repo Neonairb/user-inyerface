@@ -1,10 +1,10 @@
 import { RouterModule, Routes } from '@angular/router'
-import { HomePageComponent } from './home-page/home-page.component';
+import { HomeComponent } from './home/home.component';
 import { SessionComponent } from './session/session.component';
 
 
 const APP_ROUTES: Routes = [
-    { path: 'inicio', component: HomePageComponent },
+    { path: 'inicio', component: HomeComponent },
     { path: 'session', component: SessionComponent },
     { path: '**', pathMatch: 'full', redirectTo: 'inicio' }
 ];

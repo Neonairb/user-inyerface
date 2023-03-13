@@ -6,14 +6,14 @@ import { APP_ROUTING } from './app.routes';
 import { AppComponent } from './app.component';
 import { SessionComponent } from './session/session.component';
 import { PpInterestsComponent } from './pp-interests/pp-interests.component';
-import { HomePageComponent } from './home-page/home-page.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SessionComponent,
     PpInterestsComponent,
-    HomePageComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
